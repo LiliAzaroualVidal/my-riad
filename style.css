@@ -1,0 +1,23 @@
+body {
+  color: rgb(10, 10, 10);    
+    background-color: #DFDDDF;  
+  font-family: Arial, sans-serif;
+  font-size: 15px;
+  line-height: 1.8;
+  letter-spacing: 1px;
+  text-align: center;
+  text-decoration: none;
+}
+div {
+  background: white;                       
+  margin: 80px; 
+  padding: 40px;                             
+  border-radius: 4px;                       
+  box-shadow: 0 20px 40px rgba(0,0,0,.1);
+}
+img {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  box-shadow: 10px 10px 10px lightgrey;
+}
